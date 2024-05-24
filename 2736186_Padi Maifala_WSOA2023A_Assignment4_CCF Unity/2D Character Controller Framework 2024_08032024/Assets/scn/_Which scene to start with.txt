@@ -1,0 +1,4 @@
+Use the 'WSOA2023 - 2021 - CCF Base' scene to start building your level.
+
+NOTE: The scenes in the 'testing' folder are for testing and debugging, 
+and should NOT be used to build your level :) 
